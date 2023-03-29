@@ -1,0 +1,14 @@
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\AdventureGame.exe
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\AdventureGame.deps.json
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\AdventureGame.runtimeconfig.json
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\AdventureGame.dll
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\ref\AdventureGame.dll
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\bin\Debug\net6.0\AdventureGame.pdb
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfoInputs.cache
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfo.cs
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.dll
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\ref\AdventureGame.dll
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.pdb
+C:\xampp\htdocs\SCHOOL\C#\AdventureGame\obj\Debug\net6.0\AdventureGame.genruntimeconfig.cache
