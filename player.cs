@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace AdventureGame
 {
-    class enemy
+    class player
     {
-        public int health; public string name; public int protection; public int damage;
+        public int health; public string name;  public int protection; public int damage;
         public int min_damage;
         public int max_damage;
-
     }
 }
