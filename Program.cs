@@ -20,7 +20,7 @@
             player.max_damage = 25;
             
             enemy1.name = "The Rizzard";
-            enemy1.health = 125;
+            enemy1.health = 115;
             enemy1.min_damage = 25;
             enemy1.max_damage = 40;
 
